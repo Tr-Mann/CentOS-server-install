@@ -36,6 +36,7 @@ Configure disk size for VM:
 
 
 Click customize hardware:
+
  ![image](https://github.com/user-attachments/assets/736b31b3-d761-47f7-8671-3f55cc4b0987)
 
 Set the memory which the VM will have access to I used 2GB since that’s what’s recommended from the site:
